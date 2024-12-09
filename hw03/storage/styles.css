@@ -118,6 +118,7 @@ body {
   height: 54px;
   background: #a8863d;
   border: none;
+  font-family: inherit;
   font-weight: 400;
   font-size: 30px;
   line-height: 1.8;
