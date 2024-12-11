@@ -1,0 +1,6 @@
+body {
+  background-image: url("./img/BG.png"); /* шлях до вашого зображення */
+  background-size: cover; /* робить зображення таким, що повністю закриває елемент */
+  background-repeat: no-repeat; /* вимикає повторення картинки */
+  background-position: center; /* вирівнює картинку по центру */
+}
