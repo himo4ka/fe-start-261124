@@ -1,6 +1,47 @@
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+}
+
+ul,
+ol {
+  margin: 0;
+  padding-left: 0;
+}
+
+.container {
+  width: 1350px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin: 0 auto;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+.list {
+  list-style: none;
+}
+
+.link {
+  text-decoration: none;
+}
+
 body {
   background-image: url("./img/BG.png"); /* шлях до вашого зображення */
   background-size: cover; /* робить зображення таким, що повністю закриває елемент */
   background-repeat: no-repeat; /* вимикає повторення картинки */
   background-position: center; /* вирівнює картинку по центру */
+}
+.acquaintance {
+  display: flex;
+  gap: 112px;
 }
